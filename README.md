@@ -40,3 +40,12 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
+# Installation
+npm install express
+npm install express-handlebars
+npm install mysql2
+npm install sequelize
+npm install dotenv 
+npm install bcrypt
+npm install express-session
+npm install connect-session-sequelize
