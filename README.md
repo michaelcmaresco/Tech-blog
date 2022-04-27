@@ -17,7 +17,7 @@ I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 # Mock up
- https://tech-news-github.herokuapp.com/
+ https://tech-blog-v2.herokuapp.com/
 
 # Installation
 npm install express
