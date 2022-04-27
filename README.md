@@ -18,7 +18,8 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 # Mock up
 
-/Users/michaelc.maresco/projects/tech-news/imgs/Screen Shot 2022-04-27 at 12.48.48 AM.png
+![Screen Shot 2022-04-27 at 12 48 48 AM](https://user-images.githubusercontent.com/93306435/165459276-348c60d3-3f55-464c-8b25-7f84140a3c18.png)
+
 
 
 # Installation
